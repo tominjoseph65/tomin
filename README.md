@@ -1,1 +1,3 @@
 # tomin
+mca sd
+sngce
